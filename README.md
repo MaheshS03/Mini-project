@@ -1,6 +1,6 @@
 # Mini-project
 ## AIM:
-To Perform Data Science Process on a complex dataset and save the data to a file. 
+To Perform Data Science Process on a complex dataset and save the data to a file and to improve the accuracy level of dataset using machine learning algorithm model.
 
 ## ALGORITHM:
 STEP 1 Read the given Data 
@@ -10,6 +10,8 @@ STEP 2 Clean the Data Set using Data Cleaning Process
 STEP 3 Apply Feature Generation/Feature Selection Techniques on the data set
 
 STEP 4 Apply EDA /Data visualization techniques to all the features of the data set
+
+STEP 5 Apply machine learning algorithm to determine the accuracy of the dataset.
 
 ## CODE:
 import pandas as pd
@@ -693,5 +695,5 @@ print("Mean Squared Error:", mse)
 ![d48](https://github.com/MaheshS03/Mini-project/assets/128498431/fb4d707c-0c5a-4967-84bf-582cc9c8ce95)
 
 ## RESULT:
-Thus, the Data Science Process on Complex Dataset were performed and
+Thus, the Data Science Process on Complex Dataset were performed and improved accuracy level of the dataset using machine learning algorithm 
 output was verified successfully.
